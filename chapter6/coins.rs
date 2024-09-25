@@ -28,3 +28,5 @@ fn value_in_cents(coin: Coin) -> u8 {
         }
     }
 }
+
+
